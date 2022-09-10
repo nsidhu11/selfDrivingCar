@@ -1,8 +1,8 @@
-# selfDrivingCar
+# Self Driving Car
 This project creates a simulation for self driving cars. All work is done mannualy (without the use of any library) using Javascript. This 
 project covers the basics of neural networks and its implementation using Javasript.
 
-#Phases of project:
+# Phases of project:
 
 1.  Car Driving Mechanism:
 2.  Road Definition:
