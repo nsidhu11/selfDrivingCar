@@ -2,7 +2,7 @@
 This project creates a simulation for self driving cars. All work is done mannualy (without the use of any library) using Javascript. This 
 project covers the basics of neural networks and its implementation using Javasript.
 
-Here the link for working simulation: nsidhu11.github.io/selfdrivingcar/
+[Link for working simulation](https://nsidhu11.github.io/selfDrivingCar/)
 
 # Phases of project:
 
